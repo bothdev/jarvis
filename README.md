@@ -1,2 +1,2 @@
-# jarvis
+# Jarvis
 Speech Recognition System
